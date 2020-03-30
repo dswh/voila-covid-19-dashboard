@@ -90,7 +90,6 @@ matplotlib==3.1.1
 mccabe==0.6.1
 mistune==0.8.4
 multipledispatch==0.6.0
-navigator-updater==0.2.1
 nbconvert==5.6.0
 nbformat==4.4.0
 networkx==2.3
