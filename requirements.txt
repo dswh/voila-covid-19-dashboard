@@ -1,4 +1,5 @@
 voila
+voila-material
 pandas
 ipywidgets
 seaborn
